@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xin chào bạn 
+=======
+xin chào 4
+>>>>>>> alpha

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kết thúc buổi tối lúc 12h
+=======
+xin chào 3
+>>>>>>> alpha
